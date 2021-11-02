@@ -38,7 +38,7 @@ _Para poder ver el resultado solo basta con abrir el archivo index.html_
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia GNU GPLv3 - mira el archivo [LICENSE](https://choosealicense.com/licenses/gpl-3.0/) para detalles}
+Este proyecto está bajo la Licencia GNU GPLv3 - mira el archivo [LICENSE](https://choosealicense.com/licenses/gpl-3.0/) para detalles
 
 ---
 Con ❤️ por [cristiandares](https://github.com/cristiandares) 🐍
